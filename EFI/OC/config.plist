@@ -243,13 +243,13 @@
 			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>ATY,DeviceName</key>
-				<string>5700</string>
+				<string>580</string>
 				<key>ATY,FamilyName</key>
 				<string>Radeon RX</string>
 				<key>model</key>
-				<string>Radeon RX 5700</string>
+				<string>Radeon RX 580</string>
 				<key>shikigva</key>
-				<integer>80</integer>
+				<integer>128</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
