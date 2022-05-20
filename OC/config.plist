@@ -675,7 +675,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>67</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Entries</key>
 		<array/>
@@ -1011,7 +1011,7 @@
 				<key>SystemAudioVolume</key>
 				<data>UA==</data>
 				<key>boot-args</key>
-				<string>alcid=7 darkwake=0 agdpmod=pikera -v</string>
+				<string>alcid=7 darkwake=0 agdpmod=pikera keepsyms=1 -v</string>
 				<key>csr-active-config</key>
 				<data>DnCwAA==</data>
 				<key>prev-lang:kbd</key>
