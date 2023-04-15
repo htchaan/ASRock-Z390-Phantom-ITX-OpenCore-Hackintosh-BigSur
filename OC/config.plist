@@ -246,14 +246,16 @@
             <dict>
                 <key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
                 <dict>
-                    <key>ATY,DeviceName</key>
-                    <string>580</string>
-                    <key>ATY,FamilyName</key>
-                    <string>Radeon</string>
-                    <key>model</key>
-                    <string>Radeon RX 580</string>
-                    <key>shikigva</key>
-                    <integer>128</integer>
+                    <key>@0,name</key>
+                    <string>ATY,Belknap</string>
+                    <key>@1,name</key>
+                    <string>ATY,Belknap</string>
+                    <key>@2,name</key>
+                    <string>ATY,Belknap</string>
+                    <key>@3,name</key>
+                    <string>ATY,Belknap</string>
+                    <key>device_type</key>
+                    <string>ATY,BelknapParent</string>
                 </dict>
             </dict>
             <key>Delete</key>
