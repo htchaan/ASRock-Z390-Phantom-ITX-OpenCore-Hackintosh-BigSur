@@ -1,7 +1,7 @@
 *.log
 *.ptx
 */vars/*
-BOOT/refind-vars/PreviousBoot
+PreviousBoot*
 
 # Created by https://www.toptal.com/developers/gitignore/api/osx,linux,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,linux,windows
